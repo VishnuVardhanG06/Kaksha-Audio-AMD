@@ -2,8 +2,6 @@
 # Kaksha-Audio 🎧📚
 > **AMD Slingshot Hackathon 2026 Submission** > *Track: AI in Education & Skilling*
 
-![Kaksha Audio Banner](https://via.placeholder.com/1000x300?text=Kaksha-Audio:+Bridging+Literacy+with+Socratic+AI)
-
 ## 💡 The Problem
 In India, millions of students struggle with reading comprehension due to language barriers and static, text-heavy textbooks. Standard Text-to-Speech (TTS) tools are robotic and monotonous, leading to low retention and disengagement.
 
